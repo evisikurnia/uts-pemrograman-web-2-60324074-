@@ -22,14 +22,14 @@ Di dalam aplikasi ini, pengguna bisa menambah, melihat, mengedit, dan menghapus 
 ### 4. Import database:
   - Buka phpMyAdmin (http://localhost/phpmyadmin)
   - Buat database dengan nama:
-    uts_perpustakaan_60324074
+  uts_perpustakaan_60324074
   -Klik tab Import
   -Upload file:
-    database_backup.sql
+   database_backup.sql
 ### 5. Konfigurasi database:
-Edit file:
+- Edit file:
 config/database
-sesuaikan:
+- sesuaikan:
 define('DB_USERNAME', 'root');
 define('DB_PASSWORD', '123');
 ### 6. Jalankan aplikasi dibrowser:
