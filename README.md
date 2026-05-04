@@ -11,7 +11,8 @@ Di dalam aplikasi ini, pengguna bisa menambah, melihat, mengedit, dan menghapus 
 ---
 
 ## Cara instalasi dan menjalankan aplikasi:
-### 1. Download atau salin link repository ini
+### 1. Download atau clone repository ini
+      https://github.com/evisikurnia/uts-pemrograman-web-2-60324074
 ### 2. Pindahkan folder project ke: 
   - XAMPP: C:\xampp\htdocs\
   - Laragon: C:\laragon\www\
@@ -25,7 +26,13 @@ Di dalam aplikasi ini, pengguna bisa menambah, melihat, mengedit, dan menghapus 
   -Klik tab Import
   -Upload file:
     database_backup.sql
-### 5. Jalankan aplikasi dibrowser:
+### 5. Konfigurasi database:
+Edit file:
+config/database
+sesuaikan:
+define('DB_USERNAME', 'root');
+define('DB_PASSWORD', '123');
+### 6. Jalankan aplikasi dibrowser:
       http://localhost/uts_60324074/
 
 ---
