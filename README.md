@@ -20,7 +20,7 @@ Cara instalasi dan menjalankan aplikasi:
   -Upload file:
     database_backup.sql
 5.Jalankan aplikasi dibrowser:
-  http://localhost/perpustakaan/uts_perpustakaan_60324074
+  http://localhost/uts_60324074/
 
 Struktur folder:
     uts_perpustakaan_60324074/
