@@ -13,7 +13,8 @@ Di dalam aplikasi ini, pengguna bisa menambah, melihat, mengedit, dan menghapus 
 ## Cara instalasi dan menjalankan aplikasi:
 ### 1. Download atau salin link repository ini
 ### 2. Pindahkan folder project ke: 
-        C:\xampp\htdocs\perpustakaan
+        - XAMPP: C:\xampp\htdocs\
+        - Laragon: C:\laragon\www\
 ### 3. Jalankan XAMPP:
       - Aktifkan Apache
       - Aktifkan MySQL
