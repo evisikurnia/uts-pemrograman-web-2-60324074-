@@ -32,4 +32,5 @@ Struktur folder:
 ├── delete.php         → hapus data kategori
 └── database_backup.sql → file database
 
-Link repository github
+Link repository github:
+https://github.com/evisikurnia/uts-pemrograman-web-2-60324074-
