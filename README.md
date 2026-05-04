@@ -1,5 +1,4 @@
 # UTS Pemrograman Web 2 — Sistem Manajemen Kategori Buku
-## Identitas
 - **Nama:** Eka Visi Kurnia  
 - **NIM:** 60324074
 
@@ -39,6 +38,14 @@ Di dalam aplikasi ini, pengguna bisa menambah, melihat, mengedit, dan menghapus 
 ├── edit.php           → edit data kategori
 ├── delete.php         → hapus data kategori
 └── database_backup.sql → file database
+uts_60324033/
+├── config/
+│   └── database.php
+├── index.php
+├── create.php
+├── edit.php
+├── delete.php
+└── uts_perpustakaan_60324033.sql
 
 ---
 
