@@ -13,18 +13,18 @@ Di dalam aplikasi ini, pengguna bisa menambah, melihat, mengedit, dan menghapus 
 ## Cara instalasi dan menjalankan aplikasi:
 ### 1. Download atau salin link repository ini
 ### 2. Pindahkan folder project ke: 
-        - XAMPP: C:\xampp\htdocs\
-        - Laragon: C:\laragon\www\
+  - XAMPP: C:\xampp\htdocs\
+  - Laragon: C:\laragon\www\
 ### 3. Jalankan XAMPP:
-      - Aktifkan Apache
-      - Aktifkan MySQL
+  - Aktifkan Apache
+  - Aktifkan MySQL
 ### 4. Import database:
-      - Buka phpMyAdmin (http://localhost/phpmyadmin)
-      - Buat database dengan nama:
-        uts_perpustakaan_60324074
-      -Klik tab Import
-      -Upload file:
-        database_backup.sql
+  - Buka phpMyAdmin (http://localhost/phpmyadmin)
+  - Buat database dengan nama:
+    uts_perpustakaan_60324074
+  -Klik tab Import
+  -Upload file:
+    database_backup.sql
 ### 5. Jalankan aplikasi dibrowser:
       http://localhost/uts_60324074/
 
