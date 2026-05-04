@@ -30,23 +30,14 @@ Di dalam aplikasi ini, pengguna bisa menambah, melihat, mengedit, dan menghapus 
 ---
 
 ## Struktur folder:
-    uts_perpustakaan_60324074/
+uts_perpustakaan_60324074/
 ├── config/
-│   └── database.php   → file koneksi database
-├── index.php          → halaman utama (tampil data)
-├── create.php         → tambah data kategori
-├── edit.php           → edit data kategori
-├── delete.php         → hapus data kategori
-└── database_backup.sql → file database
-uts_60324033/
-├── config/
-│   └── database.php
-├── index.php
-├── create.php
-├── edit.php
-├── delete.php
-└── uts_perpustakaan_60324033.sql
-
+│ └── database.php # file koneksi database
+├── index.php # halaman utama (menampilkan data)
+├── create.php # tambah data kategori
+├── edit.php # edit data kategori
+├── delete.php # hapus data kategori
+└── database_backup.sql # file database
 ---
 
 ### Link repository github:
