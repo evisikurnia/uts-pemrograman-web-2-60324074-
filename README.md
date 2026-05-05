@@ -23,8 +23,8 @@ Di dalam aplikasi ini, pengguna bisa menambah, melihat, mengedit, dan menghapus 
   - Buka phpMyAdmin (http://localhost/phpmyadmin)
   - Buat database dengan nama:
      uts_perpustakaan_60324074
-  -Klik tab Import
-  -Upload file:
+  - Klik tab Import
+  - Upload file:
     database_backup.sql
 ### 5. Konfigurasi database:
 - Edit file:
