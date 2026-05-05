@@ -34,10 +34,14 @@ Di dalam aplikasi ini, pengguna bisa menambah, melihat, mengedit, dan menghapus 
 ```
 ### 5. Konfigurasi database:
 - Edit file:
-config/database
+```
+  config/database
+```
 - sesuaikan:
+```
 define('DB_USERNAME', 'root');
 define('DB_PASSWORD', '123');
+```
 ### 6. Jalankan aplikasi dibrowser:
       http://localhost/uts_60324074/
 
