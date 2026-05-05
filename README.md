@@ -14,8 +14,8 @@ Di dalam aplikasi ini, pengguna bisa menambah, melihat, mengedit, dan menghapus 
 ### 1. Download atau clone repository ini
       https://github.com/evisikurnia/uts-pemrograman-web-2-60324074
 ### 2. Pindahkan folder project ke: 
-  - XAMPP: C:\xampp\htdocs\
-  - Laragon: C:\laragon\www\
+  - XAMPP: ```C:\xampp\htdocs\```
+  - Laragon:  ```C:\laragon\www\```
 ### 3. Jalankan XAMPP:
   - Aktifkan Apache
   - Aktifkan MySQL
