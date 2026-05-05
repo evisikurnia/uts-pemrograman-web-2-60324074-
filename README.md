@@ -1,6 +1,6 @@
 # UTS Pemrograman Web 2 — Sistem Manajemen Kategori Buku
-- **Nama:** Eka Visi Kurnia  
-- **NIM:** 60324074
+**Nama:** Eka Visi Kurnia  
+**NIM:** 60324074
 
 ---
 
@@ -34,9 +34,7 @@ Di dalam aplikasi ini, pengguna bisa menambah, melihat, mengedit, dan menghapus 
 ```
 ### 5. Konfigurasi database:
 - Edit file:
-```
-  config/database
-```
+```config/database```
 - sesuaikan:
 ```
 define('DB_USERNAME', 'root');
@@ -63,4 +61,4 @@ uts_perpustakaan_60324074/
 ---
 
 ### Link repository github:
-https://github.com/evisikurnia/uts-pemrograman-web-2-60324074-
+```https://github.com/evisikurnia/uts-pemrograman-web-2-60324074-```
